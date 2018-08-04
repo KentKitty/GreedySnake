@@ -1,0 +1,2 @@
+# GreedySnake
+这是一个基于JavaSE编程的贪吃蛇小游戏。要正常运行只需用Eclipse导入项目运行即可。
